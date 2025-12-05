@@ -7,3 +7,6 @@ https://github.com/peytonalee63/Math-311-Linear-Algebra-Code-Projects/blob/main/
 
 3. Predicting Homecoming Score for Winona State Volleyball
 https://github.com/peytonalee63/Math-311-Linear-Algebra-Code-Projects/blob/main/Peyton_Lee_Sports_Teams_Rankings.ipynb
+
+4. Gram Schmidt Calculator
+https://mnscu-my.sharepoint.com/:x:/g/personal/gd6915ds_go_minnstate_edu/EfghUSdSWnBGtNF6x1-ic0oBuKBgvVbu1xAKp_Vji_5sMg?e=iq0jrs
